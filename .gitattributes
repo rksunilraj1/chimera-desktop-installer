@@ -1,0 +1,12 @@
+# This file is used to override language statistics
+# Normalize line endings
+# Generated on 2026-11-05
+yarn.lock linguist-generated
+
+*.json linguist-detectable=false
+*.rs linguist-detectable
+* text=auto
+Cargo.lock linguist-generated
+public/* linguist-vendored
+package-lock.json linguist-generated
+src/**/*.rs linguist-detectable
